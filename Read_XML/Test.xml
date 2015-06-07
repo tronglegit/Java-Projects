@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<shipment>
+	<package
+		packagename="Package 1"
+		activityunit="TBq"
+	>
+		<nuclides>
+			<nuclide nuclidename="Co-60" activity="3.70E-02" lld="0" />
+			<nuclide nuclidename="Ce-144" activity="7.40E-02" lld="0" />
+		</nuclides>
+	</package>
+	<package
+		packagename="Package 2"
+		activityunit="mCi"
+	>
+		<nuclides>
+			<nuclide nuclidename="Cs-137" activity="7.40E-02" lld="0" />
+		</nuclides>
+	</package>
+	<package
+		packagename="Package 3"
+		activityunit="mCi"
+	>
+		<nuclides>
+			<nuclide nuclidename="Ce-144" activity="2.50E+2" lld="1" />
+			<nuclide nuclidename="Cs-137" activity="2.00E+3" lld="0" />
+			<nuclide nuclidename="Ce-144" activity="5.00E+2" lld="1" />
+		</nuclides>
+	</package>
+</shipment>

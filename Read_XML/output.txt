@@ -1,0 +1,2 @@
+None-LLD Total Activity(Ci)   	LLD Total Activity(Ci)		None-LLD/LLD Ratio
+ 5.00E00		   	     		7.50E-01					    6.67E00
