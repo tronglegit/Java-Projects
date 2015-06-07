@@ -1,0 +1,9 @@
+Package:ActivityUnit=TBq,PackageName=Package 1
+Nuclide:LLD=0,Activity=3.70E-02,NuclideName=Co-60
+Nuclide:LLD=0,Activity=7.40E-02,NuclideName=Ce-144
+Package:ActivityUnit=mCi,PackageName=Package 2
+Nuclide:LLD=0,Activity=7.40E-02,NuclideName=Cs-137
+Package:ActivityUnit=mCi,PackageName=Package 3
+Nuclide:LLD=1,Activity=2.50E+02,NuclideName=Ce-144
+Nuclide:LLD=0,Activity=2.00E+03,NuclideName=Cs-137
+Nuclide:LLD=1,Activity=5.00E+02,NuclideName=Ce-144
